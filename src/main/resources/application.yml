@@ -1,0 +1,6 @@
+mqtt:
+  server-address: tcp://127.0.0.1:1883
+  publisher-id: spring-server
+  topic: 9692daca-6fa3-448a-abd5-17ad85e16257
+server:
+  port: 8090
